@@ -1,0 +1,10 @@
+[package]
+name = "fact"
+version = "0.1.0"
+authors = ["Getty Ritter <gdritter@galois.com>"]
+
+[lib]
+name = "fact"
+crate-type = ["staticlib"]
+
+[dependencies]
